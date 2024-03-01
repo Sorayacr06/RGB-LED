@@ -1,5 +1,5 @@
 # RGB-LED
-Desarrllo de unha secuencia en Arduino con RGB LED
+Desarrollo de una secuencia en Arduino con RGB LED
 
 
 Curso       : 2023/24
